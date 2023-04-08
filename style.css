@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+}
+#score{
+    font-size: 20px;
+    margin: 120px;
+}
+#timer-clock{
+    font-size: 20px;
+    margin:  1440px;
+}
